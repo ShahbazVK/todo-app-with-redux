@@ -1,0 +1,21 @@
+.inputclass,.plus,.minus{
+  height: 4rem;
+  width: 6rem;
+  margin-right: 5px;
+  margin-left: 5px;
+  text-align: center;
+  font-size: 30px;
+  border: 2px solid rgb(102, 98, 98);
+}
+.inputclass{
+  border: 10px solid rgb(102, 98, 98);
+}
+.plus{
+  background-color: rgb(116, 231, 240);
+}
+.minus{
+  background-color: rgb(219, 91, 91);
+}
+.plus, .minus{
+  font-size: 50px;
+}
